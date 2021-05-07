@@ -15,3 +15,4 @@ Work in progress
 * Resume link
 * Direct e-mail link
 * Needs a better name
+* Footer
