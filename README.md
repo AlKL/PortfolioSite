@@ -7,6 +7,7 @@ Work in progress
 * 
 * 
 * Favicon
+* Host online -> something other than Heroku/GH Pages
 
 # Features: 
 * Scalable to add new projects/cards
