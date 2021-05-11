@@ -5,7 +5,7 @@ Work in progress
 * 
 * 
 * 
-* 
+* SSL
 * Favicon
 * Host online -> something other than Heroku/GH Pages
 
