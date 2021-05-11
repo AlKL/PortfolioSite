@@ -1,10 +1,10 @@
 Work in progress
 
 # Todo:
+* Add header/front-page text
 * 
 * 
-* 
-* 
+* Multi-page 
 * SSL
 * Favicon
 * Host online -> something other than Heroku/GH Pages
