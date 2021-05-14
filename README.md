@@ -4,7 +4,8 @@ Work in progress
 * Add header/front-page text
 * 
 * 
-* Multi-page - leave a comment section? or Projects page 1 - about me w/ pic page 2
+* Multi-page - leave a comment section? or Projects page 1 - about me w/ pic page 2 
+* Add a picture in one of the multi-pages
 * SSL
 * Favicon
 * Host online -> something other than Heroku/GH Pages
