@@ -1,11 +1,10 @@
-import '../../styles/headerStyle.css';
+import '../../styles/styles.css';
 
 const Header = () => {
     return (
-        <div>
-            <h1>Hello.</h1>
-            <h2>I'm Alexandre Khien, a Canadian Computer Science student. You can check out my projects here!</h2>
-            <h3>Need more ideas</h3>
+        <div className='header'>
+            <h1>Alexandre Khien</h1>
+            <h2>Software Developer<span className='blink'>|</span></h2>
         </div>
     )
 }
