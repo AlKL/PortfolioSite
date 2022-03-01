@@ -2,9 +2,9 @@ import '../../styles/styles.css';
 
 const Header = () => {
     return (
-        <div className='header'>
+        <div className='header typewriter'>
             <h1>Alexandre Khien</h1>
-            <h2>Software Developer<span className='blink'>|</span></h2>
+            <h2>Software Developer<span className='blink'></span></h2>
         </div>
     )
 }
