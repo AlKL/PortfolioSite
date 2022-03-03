@@ -6,9 +6,13 @@ import CardController from './components/cardSection/cardController';
 const App = () => {
   return (
     <div className='globalWrapper'>
-      <Navbar />
-      <Header />
-      <CardController />
+      <div className='topHalf'>
+        <Navbar />
+        <Header />
+      </div>
+      <div className='bottomHalf'>
+        <CardController />
+      </div>
     </div>
   )
 }
