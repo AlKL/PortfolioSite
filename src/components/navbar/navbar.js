@@ -15,10 +15,10 @@ const Navbar = () => {
             </div>
 
             <div className='links'>
-                <div className='iconContainer'>
+                {/* <div className='iconContainer'>
                     <a href='http://localhost:3000/' target='_blank' rel="noopener noreferrer"><img src={about} alt='about me link'></img></a>
                     <p>About</p>
-                </div>
+                </div> */}
                 <div className='iconContainer'>
                     <a href='https://github.com/AlKL' target='_blank' rel="noopener noreferrer"><img src={github} alt='github link'></img></a>
                     <p>Github</p>

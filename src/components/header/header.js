@@ -14,9 +14,9 @@ const Header = () => {
             </div>
             <div className='downArrow'>
                 {/* <img src={scroll} alt='scroll icon'></img> */}
-                <div class="blob"></div>
-                <div class="blob"></div>
-                <div class="blob"></div>
+                <div className="blob"></div>
+                <div className="blob"></div>
+                <div className="blob"></div>
             </div>
         </div>
     )
